@@ -76,9 +76,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
 </div>
-###
-
-<img src="https://raw.githubusercontent.com/abimon/abimon/output/snake.svg" alt="Snake animation" />
 
 ###
 
